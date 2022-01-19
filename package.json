@@ -1,0 +1,16 @@
+{
+  "name": "create-items",
+  "version": "1.0.0",
+  "description": "",
+  "main": "create.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node create.js"
+  },
+  "author": "Gasegamer",
+  "license": "ISC",
+  "dependencies": {
+    "free-tex-packer-core": "^0.3.4",
+    "psd": "^3.4.0"
+  }
+}
